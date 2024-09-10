@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">✨ Looking for a job or internship<br>📚 Computer Science student at IFSP<br>🎯 Aspiring Software Engineer<br>🧠 "_Talk is cheap. Show me the code_."</p>
+<p align="left">✨ Looking for a job or internship<br>📚 Computer Science student at IFSP<br>🎯 Aspiring Software Engineer<br>🧠 "Talk is cheap. Show me the code."</p>
 
 ###
 
