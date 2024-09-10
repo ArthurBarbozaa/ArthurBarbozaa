@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <h1 align="center">Hey 👋 What's up?</h1>
 
@@ -12,7 +11,7 @@
 
 ###
 
-<p align="left">✨ Looking for a job or internship<br>📚 Computer Science student at IFSP<br>🎯 Aspiring Software Engineer<br>🧠 "Talk is cheap. Show me the code."</p>
+<p align="left">✨ Looking for a job or internship<br>📚 Computer Science student at IFSP<br>🎯 Aspiring Software Engineer<br>🧠 "_Talk is cheap. Show me the code_."</p>
 
 ###
 
@@ -34,11 +33,11 @@
 
 ###
 
-<h2 align="center">Contact me</h2>
+<h2 align="left">Contact me</h2>
 
 ###
 
-<div align="center">
+<div align="left">
  <a href ="https://www.linkedin.com/in/arthur-mosta%C3%A7o-67145922b/" target = "_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
 </div>
 
