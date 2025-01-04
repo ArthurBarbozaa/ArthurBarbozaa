@@ -37,7 +37,10 @@
   <br>
   </div>
   <div align="left">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ArthurBarbozaa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=react&hide_border=false&order=2" height="151" alt="languages graph"  /> </div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ArthurBarbozaa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=react&hide_border=false&order=2" height="151" alt="languages graph"  />
+</div>
+
+###
 
   
 
