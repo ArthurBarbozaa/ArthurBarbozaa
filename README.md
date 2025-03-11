@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">✨ Looking for a job or internship<br>📚 Computer Science student at IFSP<br>🎯 Aspiring Software Engineer<br>🧠 "Talk is cheap. Show me the code."</p>
+<p align="left">✨ Looking for a job or internship<br>📚 Computer Science student at IFSP<br>🎯 Aspiring Embedded Systems Engineer<br>🧠 "Talk is cheap. Show me the code."</p>
 
 ###
 
@@ -37,7 +37,7 @@
   <br>
   </div>
   <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ArthurBarbozaa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=react&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ArthurBarbozaa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=react&hide_border=false&order=1" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -63,3 +63,19 @@
 ###
 
 ###
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
